@@ -30,6 +30,8 @@ Learning these patterns means:
 ## 📁 Inside each pattern folder:
 - **📖 README.md** - Pattern explanation 
 -   📝 List of **handpicked problems** (Easy → Medium → Hard)
+  
+---
 
 ## 🎯 Learning Roadmap
 1. Start from **Pattern 1 (Sliding Window)** and go in order  
